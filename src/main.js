@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
+import _ from 'lodash'
 import store from './store'
 import './registerServiceWorker'
 
